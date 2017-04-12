@@ -52,11 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fizz-buzz.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fizz-buzz.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fizz-buzz.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index Power.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Index Power.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -83,6 +93,7 @@
         <option value="$PROJECT_DIR$/Cipher_password.py" />
         <option value="$PROJECT_DIR$/pawns.py" />
         <option value="$PROJECT_DIR$/fizz-buzz.py" />
+        <option value="$PROJECT_DIR$/Index Power.py" />
       </list>
     </option>
   </component>
@@ -138,25 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pawns">
-    <configuration default="false" name="simplify_fractions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Dailyprogrammer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simplify_fractions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Index Power">
     <configuration default="false" name="Non-unique elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,6 +222,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Index Power" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Dailyprogrammer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Index Power.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,19 +305,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.simplify_fractions" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Non-unique elements" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Roman_numerals" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Cipher_password" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pawns" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Non-unique elements" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Roman_numerals" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Cipher_password" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pawns" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Index Power" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pawns" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Cipher_password" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Roman_numerals" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Non-unique elements" />
-        <item index="4" class="java.lang.String" itemvalue="Python.simplify_fractions" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Index Power" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pawns" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Cipher_password" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Roman_numerals" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Non-unique elements" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +341,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -399,6 +410,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index Power.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding />
         </state>
       </provider>
