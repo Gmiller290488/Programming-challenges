@@ -12,16 +12,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="simplify_fractions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simplify_fractions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Non-unique elements.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Non-unique elements.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,11 +92,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="min_max_diff.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="min_max_diff.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/min_max_diff.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="left_join.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/left_join.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -138,6 +138,7 @@
         <option value="$PROJECT_DIR$/find_message.py" />
         <option value="$PROJECT_DIR$/Checking_words.py" />
         <option value="$PROJECT_DIR$/min_max_diff.py" />
+        <option value="$PROJECT_DIR$/left_join.py" />
       </list>
     </option>
   </component>
@@ -193,25 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.min_max_diff">
-    <configuration default="false" name="pawns" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Dailyprogrammer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pawns.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.left_join">
     <configuration default="false" name="Index Power" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,6 +267,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="left_join" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Dailyprogrammer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/left_join.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,19 +350,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.pawns" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Index Power" />
-      <item index="2" class="java.lang.String" itemvalue="Python.find_message" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Checking_words" />
-      <item index="4" class="java.lang.String" itemvalue="Python.min_max_diff" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Index Power" />
+      <item index="1" class="java.lang.String" itemvalue="Python.find_message" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Checking_words" />
+      <item index="3" class="java.lang.String" itemvalue="Python.min_max_diff" />
+      <item index="4" class="java.lang.String" itemvalue="Python.left_join" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.min_max_diff" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Checking_words" />
-        <item index="2" class="java.lang.String" itemvalue="Python.find_message" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Index Power" />
-        <item index="4" class="java.lang.String" itemvalue="Python.pawns" />
+        <item index="0" class="java.lang.String" itemvalue="Python.left_join" />
+        <item index="1" class="java.lang.String" itemvalue="Python.min_max_diff" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Checking_words" />
+        <item index="3" class="java.lang.String" itemvalue="Python.find_message" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Index Power" />
       </list>
     </recent_temporary>
   </component>
@@ -492,8 +493,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/min_max_diff.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/left_join.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
           <folding />
         </state>
       </provider>
